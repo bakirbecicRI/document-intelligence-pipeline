@@ -1,0 +1,30 @@
+{
+  "input": "samples\\multipage_mixed_6p.pdf",
+  "hash": "8dca403fd1e42398bbe092fcb2334c09c63faf170bf577ecafb2b7cf8da41696",
+  "pages": [
+    {
+      "page": 1,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.704897Z   Page 1/6\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MIX-001\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nTOTAL: 147 KM"
+    },
+    {
+      "page": 2,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705286Z   Page 2/6\nRECEIPT / RACUN\nReceipt ID: RCPT-2026-MIX-001\nStore: Demo Market\nPAID: 30 KM"
+    },
+    {
+      "page": 3,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705582Z   Page 3/6\nSERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-MIX-001\nTerm: 12 months\nConfidentiality clause applies."
+    },
+    {
+      "page": 4,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705839Z   Page 4/6\nIDENTIFICATION DOCUMENT\nID Number: ID-2026-MIX-001\nName: John Doe\nNationality: BIH"
+    },
+    {
+      "page": 5,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.706168Z   Page 5/6\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MIX-002\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nTOTAL: 536 KM"
+    },
+    {
+      "page": 6,
+      "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.706528Z   Page 6/6\nRECEIPT / RACUN\nReceipt ID: RCPT-2026-MIX-002\nStore: Demo Market\nPAID: 49 KM"
+    }
+  ]
+}

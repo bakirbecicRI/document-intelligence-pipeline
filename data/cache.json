@@ -1,0 +1,458 @@
+{
+  "4bfbed4b0aeef0553f778978bb636a425d89adcc0b5acf43cb919624f3e07fd6": {
+    "input": "samples\\contract_01.pdf",
+    "hash": "4bfbed4b0aeef0553f778978bb636a425d89adcc0b5acf43cb919624f3e07fd6",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-001\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "66438dc5ae46b553b884ad42fe5141c1b6a5bd42a35ac6069b3a8352b4101491": {
+    "input": "samples\\contract_02.pdf",
+    "hash": "66438dc5ae46b553b884ad42fe5141c1b6a5bd42a35ac6069b3a8352b4101491",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-002\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "d23cdb67913eae98c225cd82736c6623b6662c57957bd5a8a60cbf913a2053b5": {
+    "input": "samples\\contract_03.pdf",
+    "hash": "d23cdb67913eae98c225cd82736c6623b6662c57957bd5a8a60cbf913a2053b5",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-003\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "2ab6a223647f08a39d43b7e706c5e8d733d6b56ef0e5f4ef6e8ec1c2cfba3f22": {
+    "input": "samples\\contract_04.pdf",
+    "hash": "2ab6a223647f08a39d43b7e706c5e8d733d6b56ef0e5f4ef6e8ec1c2cfba3f22",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-004\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "96ad3521e5b1bba19b4341c8f1fb33b94fad9a3bb6e4065f899e1bc458c98d21": {
+    "input": "samples\\contract_05.pdf",
+    "hash": "96ad3521e5b1bba19b4341c8f1fb33b94fad9a3bb6e4065f899e1bc458c98d21",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-005\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "4b6853e43af7bd5eed1bd2be0fd187b363dbf34c6d59fe5de4d7c552eca99718": {
+    "input": "samples\\contract_06.pdf",
+    "hash": "4b6853e43af7bd5eed1bd2be0fd187b363dbf34c6d59fe5de4d7c552eca99718",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-006\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "910f86d7b9d3be798a1cee545748a8916f045774c4611c047fba173299bc4e04": {
+    "input": "samples\\contract_07.pdf",
+    "hash": "910f86d7b9d3be798a1cee545748a8916f045774c4611c047fba173299bc4e04",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-007\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "b77ae6267c3f34b397553b21a0af553858a2c3952a02ca56a9483dc807a4a613": {
+    "input": "samples\\contract_08.pdf",
+    "hash": "b77ae6267c3f34b397553b21a0af553858a2c3952a02ca56a9483dc807a4a613",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-008\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "08dde1c54e812d951e619e323bb294e28c4b63dea7ca51e5c8a5b303a3fa31cf": {
+    "input": "samples\\contract_09.pdf",
+    "hash": "08dde1c54e812d951e619e323bb294e28c4b63dea7ca51e5c8a5b303a3fa31cf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-009\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "d68bc9b85fbff9fa9bf4da066bc7f2d023829d1e7b5e7ed3e43788f401ef7f6c": {
+    "input": "samples\\contract_10.pdf",
+    "hash": "d68bc9b85fbff9fa9bf4da066bc7f2d023829d1e7b5e7ed3e43788f401ef7f6c",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-010\nParties: Provider and Client\nTerm: 12 months\nConfidentiality clause applies.\nSignature: ____________________"
+      }
+    ]
+  },
+  "8f9160fea178aae2a0ed5ab49d9ccd155cef2b357cda5557fbb926c934d66797": {
+    "input": "samples\\id_01.pdf",
+    "hash": "8f9160fea178aae2a0ed5ab49d9ccd155cef2b357cda5557fbb926c934d66797",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-001\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "6d2dea7922a53fe91cf82023df0fa20e3f2de6f2126dc327400faddfd3088918": {
+    "input": "samples\\id_02.pdf",
+    "hash": "6d2dea7922a53fe91cf82023df0fa20e3f2de6f2126dc327400faddfd3088918",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-002\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "58f1302f17c7972d8e8d01dec87af18cf781cb83361c09e4a8f4edf6c2c7eda7": {
+    "input": "samples\\id_03.pdf",
+    "hash": "58f1302f17c7972d8e8d01dec87af18cf781cb83361c09e4a8f4edf6c2c7eda7",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-003\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "770abcae5965175474a6e79cfa5aea378d3458160501540c39722215d92ef055": {
+    "input": "samples\\id_04.pdf",
+    "hash": "770abcae5965175474a6e79cfa5aea378d3458160501540c39722215d92ef055",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-004\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "a524f3c4334f650aec3b4758ceef323f7cd1a44590a0edcea25698fc4effe3d7": {
+    "input": "samples\\id_05.pdf",
+    "hash": "a524f3c4334f650aec3b4758ceef323f7cd1a44590a0edcea25698fc4effe3d7",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-005\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "846ca591c784e48af02f0f908bdec87ad6c0a74619bce7f998f1da8df726e4f3": {
+    "input": "samples\\id_06.pdf",
+    "hash": "846ca591c784e48af02f0f908bdec87ad6c0a74619bce7f998f1da8df726e4f3",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-006\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "e41dbd972ff1e79e4e7e894ecafa93087e588185a91fff53125b4e9c04ca0f30": {
+    "input": "samples\\id_07.pdf",
+    "hash": "e41dbd972ff1e79e4e7e894ecafa93087e588185a91fff53125b4e9c04ca0f30",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-007\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "9dce12c2f62eca27772b56eaab6c249b19277ed5424c620722773745b926baee": {
+    "input": "samples\\id_08.pdf",
+    "hash": "9dce12c2f62eca27772b56eaab6c249b19277ed5424c620722773745b926baee",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-008\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "2ee50f6e95cd1ac23fd5f303d8ef00d1b89f2033d1cced8f6722d410e62e79c4": {
+    "input": "samples\\id_09.pdf",
+    "hash": "2ee50f6e95cd1ac23fd5f303d8ef00d1b89f2033d1cced8f6722d410e62e79c4",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-009\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "66d0c32e8d20cd146b8c81e48e292bd642e56a64278609e6a905a28d701b4304": {
+    "input": "samples\\id_10.pdf",
+    "hash": "66d0c32e8d20cd146b8c81e48e292bd642e56a64278609e6a905a28d701b4304",
+    "pages": [
+      {
+        "page": 1,
+        "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-010\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+      }
+    ]
+  },
+  "ce5824534c53442d3ebf44e9d21ad564bcb48db56613bb980c08a4fa88a76edc": {
+    "input": "samples\\invoice_01.pdf",
+    "hash": "ce5824534c53442d3ebf44e9d21ad564bcb48db56613bb980c08a4fa88a76edc",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-001\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n2\n13\nService 2\n3\n21\nService 3\n5\n43\nTOTAL: 304 KM"
+      }
+    ]
+  },
+  "e4fcba7da129e1c8c17a92f51b455efc06ae6a1f1fd62b29e8af34101c04b812": {
+    "input": "samples\\invoice_02.pdf",
+    "hash": "e4fcba7da129e1c8c17a92f51b455efc06ae6a1f1fd62b29e8af34101c04b812",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-002\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n5\n45\nService 2\n3\n88\nService 3\n4\n95\nTOTAL: 869 KM"
+      }
+    ]
+  },
+  "99e70acd5fc76187778fd98a988233efc1e57a1f8ef96b2f822b2795174ad1ee": {
+    "input": "samples\\invoice_03.pdf",
+    "hash": "99e70acd5fc76187778fd98a988233efc1e57a1f8ef96b2f822b2795174ad1ee",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-003\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n3\n74\nService 2\n1\n75\nService 3\n5\n75\nTOTAL: 672 KM"
+      }
+    ]
+  },
+  "30d227fd315e5a64e0d61aa1617a2e0c56cecc87046d35b158f54fe71c458d5d": {
+    "input": "samples\\invoice_04.pdf",
+    "hash": "30d227fd315e5a64e0d61aa1617a2e0c56cecc87046d35b158f54fe71c458d5d",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-004\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n5\n13\nService 2\n3\n28\nService 3\n1\n12\nTOTAL: 161 KM"
+      }
+    ]
+  },
+  "98bddd43cd4e49425a8ecef9a0001e1da338db80e458ace8e733cd0254f1c1d1": {
+    "input": "samples\\invoice_05.pdf",
+    "hash": "98bddd43cd4e49425a8ecef9a0001e1da338db80e458ace8e733cd0254f1c1d1",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-005\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n1\n81\nService 2\n3\n100\nService 3\n3\n52\nTOTAL: 537 KM"
+      }
+    ]
+  },
+  "e15947ec24bd243dbf68cbd2c22a407d12387e3f152b0718f5eaac677d67a62a": {
+    "input": "samples\\invoice_06.pdf",
+    "hash": "e15947ec24bd243dbf68cbd2c22a407d12387e3f152b0718f5eaac677d67a62a",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-006\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n2\n36\nService 2\n1\n77\nService 3\n2\n91\nTOTAL: 331 KM"
+      }
+    ]
+  },
+  "258beb9b7338eefe2c0006afdb6f937b7101b85f395ccc88f10c050a3aab62cb": {
+    "input": "samples\\invoice_07.pdf",
+    "hash": "258beb9b7338eefe2c0006afdb6f937b7101b85f395ccc88f10c050a3aab62cb",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-007\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n2\n77\nService 2\n2\n91\nService 3\n2\n75\nTOTAL: 486 KM"
+      }
+    ]
+  },
+  "5aec18c3de3b44e9d1eb13bd986a3ff067af35e93d5c08bcfb6eb15140aa7fb2": {
+    "input": "samples\\invoice_08.pdf",
+    "hash": "5aec18c3de3b44e9d1eb13bd986a3ff067af35e93d5c08bcfb6eb15140aa7fb2",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-008\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n5\n54\nService 2\n4\n20\nService 3\n3\n62\nTOTAL: 536 KM"
+      }
+    ]
+  },
+  "a9f25eb43d725df0566451cf1c671bdc4595139f671303197efd9080b80c3bf2": {
+    "input": "samples\\invoice_09.pdf",
+    "hash": "a9f25eb43d725df0566451cf1c671bdc4595139f671303197efd9080b80c3bf2",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-009\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n5\n23\nService 2\n2\n100\nService 3\n5\n84\nTOTAL: 735 KM"
+      }
+    ]
+  },
+  "8c0f289e95d389e22f5fb21a6d889dd520420f153028a6bf954e2b7ece2798a8": {
+    "input": "samples\\invoice_10.pdf",
+    "hash": "8c0f289e95d389e22f5fb21a6d889dd520420f153028a6bf954e2b7ece2798a8",
+    "pages": [
+      {
+        "page": 1,
+        "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-010\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n1\n32\nService 2\n1\n68\nService 3\n1\n47\nTOTAL: 147 KM"
+      }
+    ]
+  },
+  "c32cd767abd7d56c437c7a03d287abef3877e9f24c20ead4aa923d875b5cb9fe": {
+    "input": "samples\\multipage_invoice_5p.pdf",
+    "hash": "c32cd767abd7d56c437c7a03d287abef3877e9f24c20ead4aa923d875b5cb9fe",
+    "pages": [
+      {
+        "page": 1,
+        "text": "MULTI-PAGE OCR DEMO (INVOICE)\nGenerated: 2026-02-12T13:44:11.695370Z   Page 1/5\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MP-001\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem        Qty   Price (KM)\nService 1     2        13\nService 2     3        21\nService 3     5        43\nTOTAL: 304 KM\nReference: BANK-ACC-123-456"
+      },
+      {
+        "page": 2,
+        "text": "MULTI-PAGE OCR DEMO (INVOICE)\nGenerated: 2026-02-12T13:44:11.696447Z   Page 2/5\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MP-002\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem        Qty   Price (KM)\nService 1     2        13\nService 2     3        21\nService 3     5        43\nTOTAL: 304 KM\nReference: BANK-ACC-123-456"
+      },
+      {
+        "page": 3,
+        "text": "MULTI-PAGE OCR DEMO (INVOICE)\nGenerated: 2026-02-12T13:44:11.697072Z   Page 3/5\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MP-003\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem        Qty   Price (KM)\nService 1     2        13\nService 2     3        21\nService 3     5        43\nTOTAL: 304 KM\nReference: BANK-ACC-123-456"
+      },
+      {
+        "page": 4,
+        "text": "MULTI-PAGE OCR DEMO (INVOICE)\nGenerated: 2026-02-12T13:44:11.697477Z   Page 4/5\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MP-004\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem        Qty   Price (KM)\nService 1     2        13\nService 2     3        21\nService 3     5        43\nTOTAL: 304 KM\nReference: BANK-ACC-123-456"
+      },
+      {
+        "page": 5,
+        "text": "MULTI-PAGE OCR DEMO (INVOICE)\nGenerated: 2026-02-12T13:44:11.697946Z   Page 5/5\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MP-005\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem        Qty   Price (KM)\nService 1     2        13\nService 2     3        21\nService 3     5        43\nTOTAL: 304 KM\nReference: BANK-ACC-123-456"
+      }
+    ]
+  },
+  "8dca403fd1e42398bbe092fcb2334c09c63faf170bf577ecafb2b7cf8da41696": {
+    "input": "samples\\multipage_mixed_6p.pdf",
+    "hash": "8dca403fd1e42398bbe092fcb2334c09c63faf170bf577ecafb2b7cf8da41696",
+    "pages": [
+      {
+        "page": 1,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.704897Z   Page 1/6\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MIX-001\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nTOTAL: 147 KM"
+      },
+      {
+        "page": 2,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705286Z   Page 2/6\nRECEIPT / RACUN\nReceipt ID: RCPT-2026-MIX-001\nStore: Demo Market\nPAID: 30 KM"
+      },
+      {
+        "page": 3,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705582Z   Page 3/6\nSERVICE CONTRACT / UGOVOR\nContract ID: CTR-2026-MIX-001\nTerm: 12 months\nConfidentiality clause applies."
+      },
+      {
+        "page": 4,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.705839Z   Page 4/6\nIDENTIFICATION DOCUMENT\nID Number: ID-2026-MIX-001\nName: John Doe\nNationality: BIH"
+      },
+      {
+        "page": 5,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.706168Z   Page 5/6\nINVOICE / FAKTURA\nInvoice Number: INV-2026-MIX-002\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nTOTAL: 536 KM"
+      },
+      {
+        "page": 6,
+        "text": "MULTI-PAGE OCR DEMO (MIXED TYPES)\nGenerated: 2026-02-12T13:44:11.706528Z   Page 6/6\nRECEIPT / RACUN\nReceipt ID: RCPT-2026-MIX-002\nStore: Demo Market\nPAID: 49 KM"
+      }
+    ]
+  },
+  "7c8c52745ceaec5e5d638af77ff47aa63486a63edab2895fce86a19feb487468": {
+    "input": "samples\\receipt_01.pdf",
+    "hash": "7c8c52745ceaec5e5d638af77ff47aa63486a63edab2895fce86a19feb487468",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-001\nStore: Demo Market\nProduct 1: 12 KM\nProduct 2: 4 KM\nProduct 3: 8 KM\nProduct 4: 6 KM\nPAID: 30 KM"
+      }
+    ]
+  },
+  "f41f603473a819f37d566218f9808825564f6bfad2e9d7966a3f2005630de91b": {
+    "input": "samples\\receipt_02.pdf",
+    "hash": "f41f603473a819f37d566218f9808825564f6bfad2e9d7966a3f2005630de91b",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-002\nStore: Demo Market\nProduct 1: 17 KM\nProduct 2: 5 KM\nProduct 3: 11 KM\nProduct 4: 6 KM\nPAID: 39 KM"
+      }
+    ]
+  },
+  "6e05911e5c01091061305fa3ed4578f4c1ccb7da1dfeb1c6502c091a05864703": {
+    "input": "samples\\receipt_03.pdf",
+    "hash": "6e05911e5c01091061305fa3ed4578f4c1ccb7da1dfeb1c6502c091a05864703",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-003\nStore: Demo Market\nProduct 1: 6 KM\nProduct 2: 7 KM\nProduct 3: 2 KM\nProduct 4: 2 KM\nPAID: 17 KM"
+      }
+    ]
+  },
+  "eb36db6080c5b48868e291a90ca76e2bbb1c9249a9fae4760806b4fa45511fe8": {
+    "input": "samples\\receipt_04.pdf",
+    "hash": "eb36db6080c5b48868e291a90ca76e2bbb1c9249a9fae4760806b4fa45511fe8",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-004\nStore: Demo Market\nProduct 1: 11 KM\nProduct 2: 12 KM\nProduct 3: 13 KM\nProduct 4: 9 KM\nPAID: 45 KM"
+      }
+    ]
+  },
+  "7fe89f29c9359cca0345a967fc2e185b821ff0d1b8eda4a715f1931400eff640": {
+    "input": "samples\\receipt_05.pdf",
+    "hash": "7fe89f29c9359cca0345a967fc2e185b821ff0d1b8eda4a715f1931400eff640",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-005\nStore: Demo Market\nProduct 1: 12 KM\nProduct 2: 8 KM\nProduct 3: 14 KM\nProduct 4: 16 KM\nPAID: 50 KM"
+      }
+    ]
+  },
+  "1547d5ac46bf9f0af1d4a9a481475a29940072c19432d31e63eff7039336666a": {
+    "input": "samples\\receipt_06.pdf",
+    "hash": "1547d5ac46bf9f0af1d4a9a481475a29940072c19432d31e63eff7039336666a",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-006\nStore: Demo Market\nProduct 1: 14 KM\nProduct 2: 14 KM\nProduct 3: 3 KM\nProduct 4: 17 KM\nPAID: 48 KM"
+      }
+    ]
+  },
+  "0a1cbd7b5392f56bec6391a9d7c594f0908bd288310b77583a634dbc3c92c4ca": {
+    "input": "samples\\receipt_07.pdf",
+    "hash": "0a1cbd7b5392f56bec6391a9d7c594f0908bd288310b77583a634dbc3c92c4ca",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-007\nStore: Demo Market\nProduct 1: 2 KM\nProduct 2: 11 KM\nProduct 3: 9 KM\nProduct 4: 20 KM\nPAID: 42 KM"
+      }
+    ]
+  },
+  "e6f102280e0dfe42599b37dc93a362ea5c0709a61dd890636c50f5efda00d932": {
+    "input": "samples\\receipt_08.pdf",
+    "hash": "e6f102280e0dfe42599b37dc93a362ea5c0709a61dd890636c50f5efda00d932",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-008\nStore: Demo Market\nProduct 1: 13 KM\nProduct 2: 13 KM\nProduct 3: 14 KM\nProduct 4: 18 KM\nPAID: 58 KM"
+      }
+    ]
+  },
+  "bd10b28a3a11abb927c80268753710bd3593d3792623d98442c9fdc881e8783a": {
+    "input": "samples\\receipt_09.pdf",
+    "hash": "bd10b28a3a11abb927c80268753710bd3593d3792623d98442c9fdc881e8783a",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-009\nStore: Demo Market\nProduct 1: 8 KM\nProduct 2: 8 KM\nProduct 3: 10 KM\nProduct 4: 8 KM\nPAID: 34 KM"
+      }
+    ]
+  },
+  "9a3b8509d822cfb02ff82213b63989953287eb22b1fb030650fe030fc8a853bc": {
+    "input": "samples\\receipt_10.pdf",
+    "hash": "9a3b8509d822cfb02ff82213b63989953287eb22b1fb030650fe030fc8a853bc",
+    "pages": [
+      {
+        "page": 1,
+        "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-010\nStore: Demo Market\nProduct 1: 18 KM\nProduct 2: 14 KM\nProduct 3: 10 KM\nProduct 4: 7 KM\nPAID: 49 KM"
+      }
+    ]
+  }
+}

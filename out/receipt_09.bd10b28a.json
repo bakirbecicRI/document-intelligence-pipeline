@@ -1,0 +1,10 @@
+{
+  "input": "samples\\receipt_09.pdf",
+  "hash": "bd10b28a3a11abb927c80268753710bd3593d3792623d98442c9fdc881e8783a",
+  "pages": [
+    {
+      "page": 1,
+      "text": "RECEIPT / RACUN\nReceipt ID: RCPT-2026-009\nStore: Demo Market\nProduct 1: 8 KM\nProduct 2: 8 KM\nProduct 3: 10 KM\nProduct 4: 8 KM\nPAID: 34 KM"
+    }
+  ]
+}

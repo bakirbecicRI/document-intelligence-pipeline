@@ -1,0 +1,10 @@
+{
+  "input": "samples\\id_01.pdf",
+  "hash": "8f9160fea178aae2a0ed5ab49d9ccd155cef2b357cda5557fbb926c934d66797",
+  "pages": [
+    {
+      "page": 1,
+      "text": "IDENTIFICATION DOCUMENT\nID Number: ID-2026-001\nName: John Doe\nDate of Birth: 1990-01-01\nNationality: BIH"
+    }
+  ]
+}

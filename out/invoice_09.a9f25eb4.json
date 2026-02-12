@@ -1,0 +1,10 @@
+{
+  "input": "samples\\invoice_09.pdf",
+  "hash": "a9f25eb43d725df0566451cf1c671bdc4595139f671303197efd9080b80c3bf2",
+  "pages": [
+    {
+      "page": 1,
+      "text": "INVOICE / FAKTURA\nInvoice Number: INV-2026-009\nSupplier: Demo Company d.o.o.\nCustomer: Demo Client\nItem\nQty\nPrice (KM)\nService 1\n5\n23\nService 2\n2\n100\nService 3\n5\n84\nTOTAL: 735 KM"
+    }
+  ]
+}
